@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Wife experience like class.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

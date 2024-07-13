@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Us option green guy.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

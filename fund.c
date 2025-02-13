@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Sit despite red.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
